@@ -2,8 +2,7 @@
 
 
 - 跟逆向有关的资源收集。当前包括的工具个数3000+，并根据功能进行了粗糙的分类。部分工具添加了中文描述。当前包括文章数600左右。
-
-- 因为Github Readme显示的内容有限, 此页只包含部分内容. [查看完整版](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_full.md)
+- 此页只包含部分内容. [查看完整版](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_full.md)
 
 # 说明
 [EnglishVersion](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md)

@@ -2,7 +2,7 @@
 
 
 - Reverse Engineering Resource Collection. 3000+ open source tools, ~600 blog posts.
-- Because Github Readme page only show few lines, most tools and posts and not shown. [Read Full Version](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_full_en.md)
+- This page only contains limited tools and posts. [Read Full Version](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_full_en.md)
 
 # PS
 [中文版本](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme.md)
