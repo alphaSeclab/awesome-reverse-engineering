@@ -2618,6 +2618,7 @@ idawasm IDA Pro Plugin](https://www.fireeye.com/blog/threat-research/2018/10/rev
 - [**240**星][4m] [JS] [consensys/surya](https://github.com/consensys/surya) A set of utilities for exploring Solidity contracts
 - [**214**星][2m] [Py] [rpisec/llvm-deobfuscator](https://github.com/rpisec/llvm-deobfuscator) 
 - [**211**星][12m] [Java] [neo23x0/fnord](https://github.com/neo23x0/fnord) Pattern Extractor for Obfuscated Code
+- [Py] [keepalifeus/sfs2x-py](https://github.com/KeepALifeUS/sfs2x-py) SmartFoxServer 2X二进制协议的纯Python实现，用于数据包分析、MITM代理和游戏机器人开发。
 
 
 ***

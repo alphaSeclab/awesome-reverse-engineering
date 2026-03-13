@@ -5368,6 +5368,7 @@ idawasm IDA Pro Plugin](https://www.fireeye.com/blog/threat-research/2018/10/rev
 - [**21**星][1y] [Lua] [yoshifan/ram-watch-cheat-engine](https://github.com/yoshifan/ram-watch-cheat-engine) Lua script framework for RAM watch displays using Cheat Engine, with a focus on Dolphin emulator.
 - [**21**星][2m] [Py] [verabe/veriman](https://github.com/verabe/veriman) Analysis tool for Solidity smart contracts. Prototype.
 - [**20**星][1y] [Batchfile] [olafhartong/ta-sysmon-deploy](https://github.com/olafhartong/ta-sysmon-deploy) Deploy and maintain Symon through the Splunk Deployment Sever
+- [Py] [keepalifeus/sfs2x-py](https://github.com/KeepALifeUS/sfs2x-py) SmartFoxServer 2X二进制协议的纯Python实现，用于数据包分析、MITM代理和游戏机器人开发。
 
 
 ***
