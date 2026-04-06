@@ -26,6 +26,7 @@
 
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security analysis, automated code review, and multi-platform vulnerability assessment. MIT licensed.
 # 说明
 [EnglishVersion](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md)
 
