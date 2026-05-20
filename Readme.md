@@ -853,6 +853,9 @@
 
 ### <a id="2adc0044b2703fb010b3bf73b1f1ea4a"></a>Apple&&macOS&&iXxx&&Objective-C&&SWift&&Mach-O
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
+
+
 
 #### <a id="8530752bacfb388f3726555dc121cb1a"></a>未分类
 
