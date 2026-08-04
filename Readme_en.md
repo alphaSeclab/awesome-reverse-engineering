@@ -370,6 +370,8 @@
 
 
 
+- [**168**Star][1d] [TypeScript] [morluto/rea](https://github.com/morluto/rea) a local CLI and MCP server for agent-driven reverse engineering with Hopper and Ghidra, managed PE/CLI, JavaScript/Electron apps, and browser runtimes.
+
 ### <a id="c39a6d8598dde6abfeef43faf931beb5"></a>No Category
 
 
