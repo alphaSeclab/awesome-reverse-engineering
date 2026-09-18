@@ -3402,6 +3402,8 @@ idawasm IDA Pro Plugin](https://www.fireeye.com/blog/threat-research/2018/10/rev
 - [**3263**星][7m] [JS] [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) Test your internet connection speed and ping using speedtest.net from the CLI
 - [**1657**星][14d] [C#] [jbevain/cecil](https://github.com/jbevain/cecil) C#库, 探查/修改/生成 .NET App/库
 - [**217**星][11m] [C#] [rainwayapp/warden](https://github.com/rainwayapp/warden) Warden.NET is an easy to use process management library for keeping track of processes on Windows.
+- [Opaquer .NET Obfuscator](https://github.com/Rustemsoft/Opaquer) - Modern IL-based obfuscator for .NET assemblies.
+
 
 
 ### <a id="6d2fe834b7662ecdd48c17163f732daf"></a>Environment&&环境&&配置
