@@ -2262,6 +2262,7 @@ idawasm IDA Pro Plugin](https://www.fireeye.com/blog/threat-research/2018/10/rev
 - [**28**星][9d] [Java] [zerokilo/xexloaderwv](https://github.com/zerokilo/xexloaderwv) Ghidra Loader Module for X360 XEX Files
 - [**27**星][2m] [vgkintsugi/ghidra-segasaturn-processor](https://github.com/vgkintsugi/ghidra-segasaturn-processor) A Ghidra processor module for the Sega Saturn (SuperH SH-2)
 - [**25**星][9m] [Assembly] [thog/ghidra_falcon](https://github.com/thog/ghidra_falcon) Support of Nvidia Falcon processors for Ghidra (WIP)
+- [jajmangold/gv100-fecs-limiter](https://github.com/jajmangold/gv100-fecs-limiter) Reverse-engineering the FECS speed-select limiter on NVIDIA CMP 100-210 (GV100) GPUs: CUDA probe kernels, VBIOS decode, BAR0 register probes, leaked NVIDIA source analysis
 - [**19**星][7m] [guedou/ghidra-processor-mep](https://github.com/guedou/ghidra-processor-mep) Toshiba MeP-c4 for Ghidra
 - [**15**星][2m] [Java] [neatmonster/mclf-ghidra-loader](https://github.com/neatmonster/mclf-ghidra-loader) Ghidra loader module for the Mobicore trustlet and driver binaries
 - [**7**星][4m] [Java] [ballon-rouge/rx-proc-ghidra](https://github.com/ballon-rouge/rx-proc-ghidra) Renesas RX processor module for Ghidra
