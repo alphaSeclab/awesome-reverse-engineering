@@ -2304,6 +2304,7 @@ idawasm IDA Pro Plugin](https://www.fireeye.com/blog/threat-research/2018/10/rev
 - [**422**Star][1y] [Py] [dstmath/frida-unpack](https://github.com/dstmath/frida-unpack) unpack script based on frida
 - [**420**Star][13d] [C] [frida/frida-python](https://github.com/frida/frida-python) Frida Python bindings
 - [**332**Star][15d] [JS] [chichou/bagbak](https://github.com/ChiChou/bagbak) Yet another frida based iOS dumpdecrypted, works on iOS 13 with checkra1n and supports decrypting app extensions
+- [**33**Star][1d] [Go] [re13orn/IPA-Decrypt](https://github.com/Re13orn/IPA-Decrypt) GUI tool to download App Store/TestFlight IPAs and decrypt them offline (FairPlay), keeping the original bundle; no jailbreak needed on Apple Silicon Macs
 - [**321**Star][1m] [C] [frida/frida-core](https://github.com/frida/frida-core) Frida core library intended for static linking into bindings
 - [**308**Star][4m] [JS] [smartdone/frida-scripts](https://github.com/smartdone/frida-scripts) frida scripts
 - [**283**Star][8m] [Py] [nightbringer21/fridump](https://github.com/nightbringer21/fridump) A universal memory dumper using Frida
